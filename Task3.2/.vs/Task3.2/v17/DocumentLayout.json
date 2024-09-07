@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\IEEE-CS-backend\\Task3.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD2A8A1-0E90-49E2-A890-51C08AEDEBC3}|Task3.2\\Task3.2.csproj|c:\\users\\hp\\source\\repos\\ieee-cs-backend\\task3.2\\task3.2\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAD2A8A1-0E90-49E2-A890-51C08AEDEBC3}|Task3.2\\Task3.2.csproj|solutionrelative:task3.2\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD2A8A1-0E90-49E2-A890-51C08AEDEBC3}|Task3.2\\Task3.2.csproj|c:\\users\\hp\\source\\repos\\ieee-cs-backend\\task3.2\\task3.2\\applicationcontext\\appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAD2A8A1-0E90-49E2-A890-51C08AEDEBC3}|Task3.2\\Task3.2.csproj|solutionrelative:task3.2\\applicationcontext\\appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD2A8A1-0E90-49E2-A890-51C08AEDEBC3}|Task3.2\\Task3.2.csproj|c:\\users\\hp\\source\\repos\\ieee-cs-backend\\task3.2\\task3.2\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAD2A8A1-0E90-49E2-A890-51C08AEDEBC3}|Task3.2\\Task3.2.csproj|solutionrelative:task3.2\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD2A8A1-0E90-49E2-A890-51C08AEDEBC3}|Task3.2\\Task3.2.csproj|c:\\users\\hp\\source\\repos\\ieee-cs-backend\\task3.2\\task3.2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAD2A8A1-0E90-49E2-A890-51C08AEDEBC3}|Task3.2\\Task3.2.csproj|solutionrelative:task3.2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 215,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\IEEE-CS-backend\\Task3.2\\Task3.2\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Task3.2\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\IEEE-CS-backend\\Task3.2\\Task3.2\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Task3.2\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T02:25:50.59Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\IEEE-CS-backend\\Task3.2\\Task3.2\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Task3.2\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\IEEE-CS-backend\\Task3.2\\Task3.2\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Task3.2\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T02:43:26.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\IEEE-CS-backend\\Task3.2\\Task3.2\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Task3.2\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\IEEE-CS-backend\\Task3.2\\Task3.2\\Models\\User.cs",
+              "RelativeToolTip": "Task3.2\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T02:25:25.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\IEEE-CS-backend\\Task3.2\\Task3.2\\ApplicationContext\\AppContext.cs",
+              "RelativeDocumentMoniker": "Task3.2\\ApplicationContext\\AppContext.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\IEEE-CS-backend\\Task3.2\\Task3.2\\ApplicationContext\\AppContext.cs",
+              "RelativeToolTip": "Task3.2\\ApplicationContext\\AppContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T23:41:51.538Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
