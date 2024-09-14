@@ -63,6 +63,26 @@ This project is a simple MVC-based Todo List application built using ASP.NET Cor
   - `State`: The new state of the task (boolean, `true` or `false`).
 - **Returns**: Redirects to `ShowAllTodoList` after updating the task state.
 
+## Prerequisites
+
+Before running the project, ensure you have the following installed:
+
+1. **.NET SDK (8.0 or later)**: Download and install the [.NET SDK](https://dotnet.microsoft.com/download/dotnet) to build and run the project.
+2. **Entity Framework Core**: Ensure you have Entity Framework Core installed for database migrations and interactions.
+3. **SQL Server**: Make sure you have SQL Server installed for managing the database.
+4. **NuGet Packages**: The project requires specific NuGet packages that should be installed.
+
+## Required NuGet Packages
+
+Make sure the following NuGet packages are installed in the project:
+
+1. **Microsoft.EntityFrameworkCore.SqlServer**  
+   This package allows Entity Framework Core to interact with a SQL Server database.
+   ```bash
+   dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+
+
+
 ## Setup Instructions
 
 ### 1. Clone the Repository
