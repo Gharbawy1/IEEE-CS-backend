@@ -1,0 +1,42 @@
+﻿@model Todo
+
+
+
+<form action="/Todos/SaveEditTodo/@Model?.Id" method="post">
+    <div class="form-group">
+        <label for="Description">Description </label>
+        <input name="Description" type="text" class="form-control" value="@Model?.Description" id="Description" placeholder="Description">
+    </div>
+
+    <div class="form-group">
+        <label for="IsCompleted">Is Finished</label>
+
+        <select name="IsCompleted" class="form-control" id="IsCompleted">
+            @{
+                if (Model?.IsCompleted == true)
+                {
+                    <option value="@true" selected>True </option>
+                    <option value="@false">False </option>
+                }
+                else{
+                    <option value="@true"> True</option>
+                    <option value="@false" selected> False</option>
+                }
+                }
+            
+
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label for="CreatedTime"> CreatedTime </label>
+        <input name="CreatedTime" type="datetime-local" class="form-control" value="@Model?.CreatedTime.ToString("yyyy-MM-ddTHH:mm")" id="CreatedTime" placeholder="CreatedTime">
+    </div>
+    
+    <div class="form-group">
+        <label for="DueTime"> DueTime </label>
+        <input name="DueTime" type="datetime-local" class="form-control" value="@Model?.DueTime?.ToString("yyyy-MM-ddTHH:mm")" id="DueTime" placeholder="DueTime">
+    </div>
+
+    <button type="submit" class="btn  btn-success">Save Changes</button>
+</form>
