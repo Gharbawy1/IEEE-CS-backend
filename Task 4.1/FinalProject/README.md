@@ -81,6 +81,18 @@ Make sure the following NuGet packages are installed in the project:
    ```bash
    dotnet add package Microsoft.EntityFrameworkCore.SqlServer
 
+2. **Microsoft.EntityFrameworkCore.tools**  
+   This package allows Entity Framework Core to interact with a SQL Server database.
+   ```bash
+   dotnet add package Microsoft.EntityFrameworkCore.tools
+
+3. **Microsoft.EntityFrameworkCore**  
+   This package allows Entity Framework Core to interact with a SQL Server database.
+   ```bash
+   dotnet add package Microsoft.EntityFrameworkCore
+
+   
+
 
 
 ## Setup Instructions
